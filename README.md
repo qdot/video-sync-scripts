@@ -23,5 +23,5 @@ various videos.
 
 ### Apathetic Handjob, Part 1
 
-Youtube URL: https://www.youtube.com/watch?v=aNFVpmfJLNs
-Script: https://
+- Youtube URL: https://www.youtube.com/watch?v=aNFVpmfJLNs
+- Script (Right-click URL, choose "save link as"): https://raw.githubusercontent.com/metafetish/video-sync-scripts/master/apathetic-handjob-part-1/apathetic-handjob-part-1.funscript
